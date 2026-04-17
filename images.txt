@@ -1,2 +1,5 @@
 7900xtx
 loxye/com.lox.ye:rocm-7.2
+
+7900xtx
+loxye/com.lox.ye:rocm-7.2-tq

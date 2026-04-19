@@ -1,4 +1,4 @@
 
-# loxye/com.lox.ye:rocm-7.2
-# loxye/com.lox.ye:rocm-7.2-tq
-loxye/com.lox.ye:rocm7-nightlies
+ loxye/com.lox.ye:rocm-7.2
+ #loxye/com.lox.ye:rocm-7.2-tq
+#loxye/com.lox.ye:rocm7-nightlies
